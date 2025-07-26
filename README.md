@@ -66,9 +66,11 @@
 
 ###
 
-<br clear="both">
+### 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/Engi-Geek/Engi-Geek/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Engi-Geek/Engi-Geek/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ###
 
