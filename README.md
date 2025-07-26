@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on my VoiceBot <br>- 🌱 I’m currently learning AWS<br>- 👯 I’m looking to collaborate on Open Source Projects <br>- 🤔 I’m looking for help with AI models<br>- 💬 Ask me about MERN and DSA<br>- 📫 How to reach me: imrankh8602@gmail.com <br>- 😄 Pronouns: He/His <br>- ⚡ Fun fact: Newton never got struck by an apple (its a myth)</p>
+<p align="left">- 🔭 I’m currently working on my VoiceBot <br>- 🌱 I’m currently learning AWS<br>- 👯 I’m looking to collaborate on Open Source Projects <br>- 🤔 I’m looking for help with AI models<br>- 💬 Ask me about MERN and DSA<br>- 📫 How to reach me: harshjain.build@gmail.com <br>- 😄 Pronouns: He/His <br>- ⚡ Fun fact: Newton never got struck by an apple (its a myth)</p>
 
 ###
 
