@@ -66,7 +66,7 @@
 
 ###
 
-### 🐍 Contribution Snake
+### 
 
 <br clear="both">
 
