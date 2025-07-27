@@ -47,19 +47,19 @@
   <a href="https://linktr.ee/binary_amigo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/imran-khan86" target="_blank">
+  <a href="https://www.linkedin.com/in/harsh7jain" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="@imrankh8602" target="_blank">
+  <a href="@harshjain.build" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://discord.com/imran_khan8602" target="_blank">
+  <a href="https://discord.com/channels/harshj7" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="https://www.instagram.com/imran..khan?igsh=ajloOWNwcjExdDRo" target="_blank">
+  <a href="https://www.instagram.com/_.harshj._/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://twitter.com/imrankh8602" target="_blank">
+  <a href="https://x.com/_harshj__" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
