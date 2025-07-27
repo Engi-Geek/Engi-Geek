@@ -3,54 +3,52 @@
 
 ---
 
-🚀 **About Me**
+<table> <tr> <td valign="top" width="50%">
 
-I'm not just writing code — I’m building things that *actually* run in the wild.
+  ### 🚀 About Me  
+  I'm not just writing code — I’m building things that *actually* run in the wild.  
+  - 🧳 Founder @ **BagFix** – luggage repair & rental startup  
+  - 👨‍💻 Co-Founder @ **EngiGeeks** – student-led tech tribe  
+  - 🛠️ Builder of APIs, products, and chaotic ideas that (mostly) work  
+  - 💡 Believer in shipping fast, learning faster, and fixing what matters
 
-- 🧳 Founder @ **BagFix** – a full-stack luggage repair & rental service  
-- 👨‍💻 Co-Founder @ **EngiGeeks** – student tech tribe that ships before it overthinks  
-- 🛠️ Builder of APIs, side-projects, and occasionally weird things that (surprisingly) work  
-- 💡 Believer in shipping fast, learning faster, and fixing what matters
+</td>
+<td valign="top" width="50%">
 
----
+  ### 📫 Let’s Connect  
+  - 📧 [harshjain.build@gmail.com](mailto:harshjain.build@gmail.com)  
+  - 🔗 [LinkedIn](https://www.linkedin.com/in/harsh7jain)  
+  - 💬 Discord: `harshj7`  
+  - 📷 [Instagram](https://instagram.com/_.harshj._)  
+  - 🐦 [X (Twitter)](https://x.com/_harshj__)
 
-🧠 **Currently Working On**
-
-- 🌀 Half the time, I don’t know what I’m doing — but I’m doing it anyway  
-- ☁️ Getting my hands dirty with **AWS & system design**  
-- 🧪 Playing around with AI tools & ideas  
-- 🤝 Open Source collabs – hit me up if you're building cool stuff
-
----
-
-💻 **Tech Stack**
-
-- **Languages:** Java, JavaScript, C++  
-- **Frontend:** React.js, HTML, CSS, Tailwind  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, Firebase  
-- **Tools:** Git, Vercel, Figma, Postman  
-- **Extras:** REST APIs, IoT, Arduino tinkering
+</td>
+</tr> </table>
 
 ---
+<table> <tr> <td valign="top" width="50%">
 
-💬 **Ask Me About**
+  ### 💻 Tech Stack  
+  - **Languages:** Java, JavaScript, C++  
+  - **Frontend:** React.js, HTML, CSS, Tailwind  
+  - **Backend:** Node.js, Express.js  
+  - **Database:** MongoDB, Firebase  
+  - **Tools:** Git, Vercel, Figma, Postman  
+  - **Extras:** REST APIs, IoT, Arduino tinkering
 
-- Full Stack Dev (MERN)  
-- Java & Backend Engineering  
-- DSA & Interview Prep  
-- Scaling MVPs with 0 budget and 100% hustle
+</td>
+<td valign="top" width="50%">
 
+  ### 💬 Ask Me About  
+  - Full Stack Dev (MERN)  
+  - Java & Backend Engineering  
+  - DSA & Interview Prep  
+  - Scaling MVPs with 0 budget and 100% hustle  
+  - Half the time, I don’t know what I’m doing — but I’m doing it anyway
+
+</td>
+</tr> </table>
 ---
-
-📫 **Let’s Connect**
-
-- 📧 Email: [harshjain.build@gmail.com](mailto:harshjain.build@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/harsh7jain](https://www.linkedin.com/in/harsh7jain)
-
----
-
-⚡ *Code. Break. Build. Repeat.*
 
 
 
