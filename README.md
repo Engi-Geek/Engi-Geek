@@ -16,7 +16,7 @@ I'm not just writing code — I’m building things that *actually* run in the w
 
 🧠 **Currently Working On**
 
-- 🔉 A smart **VoiceBot** for daily automation  
+- 🌀 Half the time, I don’t know what I’m doing — but I’m doing it anyway  
 - ☁️ Getting my hands dirty with **AWS & system design**  
 - 🧪 Playing around with AI tools & ideas  
 - 🤝 Open Source collabs – hit me up if you're building cool stuff
