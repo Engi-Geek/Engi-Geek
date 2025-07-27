@@ -94,10 +94,10 @@ I'm not just writing code — I’m building things that *actually* run in the w
 <br clear="both">
 
 <div align="left">
-  <!--
-  <a href="https://linktr.ee/binary_amigo" target="_blank">
+
+  <a href="https://linktr.ee/harsh.build" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
-  </a>-->
+  </a>
   
   <a href="https://www.linkedin.com/in/harsh7jain" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -130,8 +130,12 @@ I'm not just writing code — I’m building things that *actually* run in the w
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Engi-Geek&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Engi-Geek&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Engi-Geek&show_icons=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Engi-Geek&layout=compact&theme=dracula" height="150" />
 </div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Engi-Geek&theme=dracula" />
+</p>
 
 ###
