@@ -1,8 +1,58 @@
-<h2 align="center">Hi 👋! My name is Harsh Jain and I'm a Full Stack Developer, from India</h2>
+<h1 align="center">Hey there 👋 I’m Harsh Jain</h1>
+<h3 align="center">Full Stack Developer ⚙️ | Java + MERN | Startup Hustler from India 🇮🇳</h3>
 
-###
+---
 
-<p align="left">- 🔭 I’m currently working on my VoiceBot <br>- 🌱 I’m currently learning AWS<br>- 👯 I’m looking to collaborate on Open Source Projects <br>- 🤔 I’m looking for help with AI models<br>- 💬 Ask me about MERN and DSA<br>- 📫 How to reach me: harshjain.build@gmail.com <br>- 😄 Pronouns: He/His <br>- ⚡ Fun fact: Newton never got struck by an apple (its a myth)</p>
+🚀 **About Me**
+
+I'm not just writing code — I’m building things that *actually* run in the wild.
+
+- 🧳 Founder @ **BagFix** – a full-stack luggage repair & rental service  
+- 👨‍💻 Co-Founder @ **EngiGeeks** – student tech tribe that ships before it overthinks  
+- 🛠️ Builder of APIs, side-projects, and occasionally weird things that (surprisingly) work  
+- 💡 Believer in shipping fast, learning faster, and fixing what matters
+
+---
+
+🧠 **Currently Working On**
+
+- 🔉 A smart **VoiceBot** for daily automation  
+- ☁️ Getting my hands dirty with **AWS & system design**  
+- 🧪 Playing around with AI tools & ideas  
+- 🤝 Open Source collabs – hit me up if you're building cool stuff
+
+---
+
+💻 **Tech Stack**
+
+- **Languages:** Java, JavaScript, C++  
+- **Frontend:** React.js, HTML, CSS, Tailwind  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, Firebase  
+- **Tools:** Git, Vercel, Figma, Postman  
+- **Extras:** REST APIs, IoT, Arduino tinkering
+
+---
+
+💬 **Ask Me About**
+
+- Full Stack Dev (MERN)  
+- Java & Backend Engineering  
+- DSA & Interview Prep  
+- Scaling MVPs with 0 budget and 100% hustle
+
+---
+
+📫 **Let’s Connect**
+
+- 📧 Email: [harshjain.build@gmail.com](mailto:harshjain.build@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/harsh7jain](https://www.linkedin.com/in/harsh7jain)
+
+---
+
+⚡ *Code. Break. Build. Repeat.*
+
+
 
 ###
 
@@ -44,18 +94,21 @@
 <br clear="both">
 
 <div align="left">
+  <!--
   <a href="https://linktr.ee/binary_amigo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
-  </a>
+  </a>-->
+  
   <a href="https://www.linkedin.com/in/harsh7jain" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="@harshjain.build" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+ <a href="mailto:harshjain.build@gmail.com" target="_blank">
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://discord.com/channels/harshj7" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
+  <a href="https://discord.gg/abc123" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+</a>
+
   <a href="https://www.instagram.com/_.harshj._/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
