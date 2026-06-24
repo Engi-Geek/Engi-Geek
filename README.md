@@ -88,6 +88,7 @@ I'm not just writing code — I’m building things that *actually* run in the w
 
 ###
 ![](https://komarev.com/ghpvc/?username=Engi-Geek)
+![GitHub Snake](https://githubusercontent.com)
 ###
 ###
 
