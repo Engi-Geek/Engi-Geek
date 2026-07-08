@@ -136,8 +136,8 @@ I'm not just writing code — I’m building things that *actually* run in the w
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Engi-Geek&show_icons=true&theme=dracula&v=1" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Engi-Geek&layout=compact&theme=dracula&v=1" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Engi-Geek&show_icons=true&theme=dracula&v=2" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Engi-Geek&layout=compact&theme=dracula&v=2" height="150" />
 </div>
 
 <p align="center">
