@@ -136,12 +136,11 @@ I'm not just writing code — I’m building things that *actually* run in the w
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Engi-Geek&show_icons=true&theme=dracula&v=2" height="150" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Engi-Geek&layout=compact&theme=dracula&v=2" height="150" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Engi-Geek/Engi-Geek/main/github-metrics.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Engi-Geek/Engi-Geek/main/github-metrics.svg">
+    <img alt="github profile metrics" src="https://raw.githubusercontent.com/Engi-Geek/Engi-Geek/main/github-metrics.svg">
+  </picture>
 </div>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Engi-Geek&theme=dracula&v=1" />
-</p>
 
 ###
