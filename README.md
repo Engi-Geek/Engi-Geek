@@ -126,7 +126,11 @@ I'm not just writing code — I’m building things that *actually* run in the w
 
 <br clear="both">
 
-![GitHub Snake](https://githubusercontent.com)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Engi-Geek/Engi-Geek/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Engi-Geek/Engi-Geek/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Engi-Geek/Engi-Geek/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 ###
@@ -137,7 +141,7 @@ I'm not just writing code — I’m building things that *actually* run in the w
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Engi-Geek&theme=dracula" />
+  <img src="https://streak-stats.demolab.com/?user=Engi-Geek&theme=dracula" />
 </p>
 
 ###
